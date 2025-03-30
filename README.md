@@ -67,6 +67,12 @@ Abaixo estão os links para as issues criadas para este projeto:
 - [Resolver Problemas de Usabilidade Críticos](https://github.com/fabioramos-02/melhoria-facom/issues/3) (Blocker)
 - [Melhorar SEO do Site](https://github.com/fabioramos-02/melhoria-facom/issues/4) (Help Wanted)
 
+## **👨‍💻 Autor**
+
+Desenvolvido por **Fabio Ramos**.  
+Entre em contato: [fabio.ramos@ufms.br](mailto:fabio.ramos@ufms.br)  
+LinkedIn: [https://www.linkedin.com/in/fabio-ramos-7b8608204/](https://www.linkedin.com/in/fabio-ramos-7b8608204/)
+
 ## Licença
 
 Este projeto é licenciado sob a [MIT License](LICENSE).
