@@ -62,10 +62,10 @@ As *issues* serão registradas no GitHub e servirão como ponto de partida para 
 
 Abaixo estão os links para as issues criadas para este projeto:
 
-- [Adicionar Navegação por Teclado](https://github.com/fabioramos-2/in/issues/1) (Good First Issue)
-- [Ajustar Contraste de Cores](https://github.com/usuario/repo/issues/2) (Melhoria)
-- [Resolver Problemas de Usabilidade Críticos](https://github.com/usuario/repo/issues/3) (Blocker)
-- [Melhorar SEO do Site](https://github.com/usuario/repo/issues/4) (Help Wanted)
+- [Adicionar Navegação por Teclado](https://github.com/fabioramos-02/melhoria-facom/issues/1) (Good First Issue)
+- [Ajustar Contraste de Cores](https://github.com/fabioramos-02/melhoria-facom/issues/2) (Melhoria)
+- [Resolver Problemas de Usabilidade Críticos](https://github.com/fabioramos-02/melhoria-facom/issues/3) (Blocker)
+- [Melhorar SEO do Site](https://github.com/fabioramos-02/melhoria-facom/issues/4) (Help Wanted)
 
 ## Licença
 
